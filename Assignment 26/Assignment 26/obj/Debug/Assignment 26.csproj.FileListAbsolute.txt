@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Simplilearn Assignments\Day 21 Assignment 1\Assignment 26\Assignment 26\bin\Debug\Assignment 26.exe.config
+C:\Users\user\Desktop\Simplilearn Assignments\Day 21 Assignment 1\Assignment 26\Assignment 26\bin\Debug\Assignment 26.exe
+C:\Users\user\Desktop\Simplilearn Assignments\Day 21 Assignment 1\Assignment 26\Assignment 26\bin\Debug\Assignment 26.pdb
+C:\Users\user\Desktop\Simplilearn Assignments\Day 21 Assignment 1\Assignment 26\Assignment 26\obj\Debug\Assignment 26.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Simplilearn Assignments\Day 21 Assignment 1\Assignment 26\Assignment 26\obj\Debug\Assignment 26.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Simplilearn Assignments\Day 21 Assignment 1\Assignment 26\Assignment 26\obj\Debug\Assignment 26.exe
+C:\Users\user\Desktop\Simplilearn Assignments\Day 21 Assignment 1\Assignment 26\Assignment 26\obj\Debug\Assignment 26.pdb
